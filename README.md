@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Thejan Go](https://thejan.dev)
-<div align="center">
-  <img src="https://github.com/thejan64go/thejan64go/blob/main/assets/animation.gif" width="300" alt="Developer Animation">
+<div align="left">
+  <img src="https://github.com/thejan64go/thejan64go/blob/main/assets/animation.gif" width="200" alt="Developer Animation">
 </div>
 
 - 💻 Full-Stack Developer & AI Enthusiast
